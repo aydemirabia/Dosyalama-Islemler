@@ -1,0 +1,10 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\bin\Debug\metinBelgesiOkuma.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\bin\Debug\metinBelgesiOkuma.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\bin\Debug\metinBelgesiOkuma.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\obj\Debug\metinBelgesiOkuma.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\obj\Debug\metinBelgesiOkuma.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\obj\Debug\metinBelgesiOkuma.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\obj\Debug\metinBelgesiOkuma.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\obj\Debug\metinBelgesiOkuma.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\obj\Debug\metinBelgesiOkuma.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOkuma\obj\Debug\metinBelgesiOkuma.pdb

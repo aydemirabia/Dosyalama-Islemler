@@ -1,0 +1,9 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\bin\Debug\metinBelgesineVeriKaydetme.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\bin\Debug\metinBelgesineVeriKaydetme.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\bin\Debug\metinBelgesineVeriKaydetme.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\obj\Debug\metinBelgesineVeriKaydetme.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\obj\Debug\metinBelgesineVeriKaydetme.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\obj\Debug\metinBelgesineVeriKaydetme.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\obj\Debug\metinBelgesineVeriKaydetme.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\obj\Debug\metinBelgesineVeriKaydetme.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesineVeriKaydetme\obj\Debug\metinBelgesineVeriKaydetme.pdb

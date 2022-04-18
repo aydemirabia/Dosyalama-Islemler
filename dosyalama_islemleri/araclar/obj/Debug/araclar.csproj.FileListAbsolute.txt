@@ -1,0 +1,10 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\bin\Debug\araclar.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\bin\Debug\araclar.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\bin\Debug\araclar.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\obj\Debug\araclar.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\obj\Debug\araclar.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\obj\Debug\araclar.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\obj\Debug\araclar.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\obj\Debug\araclar.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\obj\Debug\araclar.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\araclar\obj\Debug\araclar.pdb

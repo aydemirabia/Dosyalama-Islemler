@@ -1,0 +1,10 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\bin\Debug\metinBelgesiOlusturma.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\bin\Debug\metinBelgesiOlusturma.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\bin\Debug\metinBelgesiOlusturma.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\obj\Debug\metinBelgesiOlusturma.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\obj\Debug\metinBelgesiOlusturma.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\obj\Debug\metinBelgesiOlusturma.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\obj\Debug\metinBelgesiOlusturma.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\obj\Debug\metinBelgesiOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\obj\Debug\metinBelgesiOlusturma.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\metinBelgesiOlusturma\obj\Debug\metinBelgesiOlusturma.pdb

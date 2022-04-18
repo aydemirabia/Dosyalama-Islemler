@@ -1,0 +1,15 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\bin\Debug\pdfOkuma.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\bin\Debug\pdfOkuma.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\bin\Debug\pdfOkuma.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.csproj.ResolveComReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\dosyalama_islemleri\pdf_islemleri\pdfOkuma\obj\Debug\pdfOkuma.pdb
